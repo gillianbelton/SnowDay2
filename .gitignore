@@ -1,3 +1,7 @@
 
 Library/
 Snow Day.sln
+
+Temp/UnityLockfile
+
+*.csproj
