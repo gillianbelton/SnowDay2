@@ -63,7 +63,7 @@ public class snow : MonoBehaviour {
 				cb.normalColor = path3;
 			}
 		}		
-		else if(colorComapre(cp.normalColor, )
+		//else if(colorComapre(cp.normalColor, )
 	
 		cb.normalColor = snowColor;
     cb.highlightedColor = snowColor;
