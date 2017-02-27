@@ -68,7 +68,7 @@ public class snow : MonoBehaviour {
 		cb.normalColor = snowColor;
     cb.highlightedColor = snowColor;
     button.colors = cb;
-    buttonText.text = playerSide;
+    buttonText.text = "TEST";
 		button.interactable = false;
 		numMoves = numMoves - 1;
 
